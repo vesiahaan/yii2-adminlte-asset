@@ -17,7 +17,7 @@
     "require": {
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-bootstrap": "~2.0.0",
-        "almasaeed2010/adminlte": "^2.4.0"
+        "vesiahaan/adminlte": "^2.4.0"
     },
     "suggest": {
         "cebe/yii2-gravatar": "Display user icons",
